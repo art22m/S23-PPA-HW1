@@ -1,0 +1,3 @@
+1 c := 2;
+2 a := random_choice(6, sum(12, c), -1, 55);
+3 b := sum(-14, sum(12, c))
